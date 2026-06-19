@@ -53,5 +53,9 @@ For maximum productivity, assign a custom keyboard shortcut via the Chrome Exten
 
 ---
 
-### ⭐️ Support the Project
+### ❤️Support the Project
 If you find this extension helpful for reducing eye strain or improving your late-night coding sessions, please consider leaving a **Star** ⭐️ on this repository! It helps others discover the tool on GitHub and Google.
+
+### And if you're feeling generous and want to donate(UPI QR)
+<img width="246" height="240" alt="image" src="https://github.com/user-attachments/assets/f128ae1a-7d94-449b-b001-10a53ab938e1" />
+
